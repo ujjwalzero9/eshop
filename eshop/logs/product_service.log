@@ -1,0 +1,14 @@
+[2025-06-12 14:50:27,597] INFO eshop.services.product_service list_products elapsed=2.4690s cache_hit=False
+[2025-06-12 14:50:35,327] INFO eshop.services.product_service list_products elapsed=0.3120s cache_hit=False
+[2025-06-12 14:51:02,724] INFO eshop.services.product_service list_products elapsed=0.5160s cache_hit=False
+[2025-06-12 14:51:12,424] INFO eshop.services.product_service get_product_by_id elapsed=0.2500s cache_hit=False
+[2025-06-12 14:51:29,426] INFO eshop.services.product_service get_product_by_id elapsed=0.2500s cache_hit=False
+[2025-06-12 14:51:32,786] INFO eshop.services.product_service get_product_by_id elapsed=0.2500s cache_hit=False
+[2025-06-12 14:51:53,913] INFO eshop.services.product_service get_product_by_id elapsed=0.2960s cache_hit=False
+[2025-06-12 14:52:11,060] INFO eshop.services.product_service update_product elapsed=1.2660s cache_hit=False
+[2025-06-12 15:08:59,409] INFO eshop.services.product_service delete_product elapsed=1.2650s cache_hit=False
+[2025-06-12 15:09:01,755] INFO eshop.services.product_service get_product_by_id elapsed=0.5000s cache_hit=False
+[2025-06-12 15:09:03,955] INFO eshop.services.product_service list_products elapsed=0.5470s cache_hit=False
+[2025-06-12 15:09:06,810] INFO eshop.services.product_service update_product elapsed=1.2350s cache_hit=False
+[2025-06-12 15:14:29,860] INFO eshop.services.product_service get_product_by_id elapsed=2.7970s cache_hit=False
+[2025-06-12 15:14:31,934] INFO eshop.services.product_service list_products elapsed=0.4850s cache_hit=False
